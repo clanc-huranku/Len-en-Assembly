@@ -1,4 +1,4 @@
-# Len-en-Github-Repository
+# Len'en Ghidra Decompilation
 
 This is just the assembly and pseudocode extracted from Ghidra.
 Everything is done with default settings so there's probably a lot of issues lol.
