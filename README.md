@@ -1,6 +1,6 @@
 # Len-en-Github-Repository
 
-This is just the assembly and pseudocode from extracted from Ghidra
+This is just the assembly and pseudocode extracted from Ghidra
 
 ## Contents
 
