@@ -1,4 +1,4 @@
-# Len'en Ghidra Decompilation
+# Len'en Assembly
 
 This is just the assembly and pseudocode extracted from Ghidra.
 Everything is done with default settings so there's probably a lot of issues lol.
